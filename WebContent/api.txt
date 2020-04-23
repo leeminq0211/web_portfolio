@@ -1,0 +1,11 @@
+backend3
+애플리케이션을 생성하였습니다
+
+네이티브 앱 키
+33657ae6e188fcb179219d906bf75a5b
+REST API 키
+aebe97ba7e2f11cbcbff8a77dc2e8b85
+JavaScript 키
+629f8215d649a7297cfeac7795b0f84f
+Admin 키
+c85c787df8673206a08d28628f230c48
